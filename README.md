@@ -19,15 +19,15 @@ A modern and responsive authentication interface built using HTML and CSS. This 
 
 ### Sign Up Page
 
-![Sign Up Page](images/Sign_up.jpg)
+![Sign Up Page](Sign_up.jpg)
 
 ### Login Page
 
-![Login Page](images/Log_in.jpg)
+![Login Page](Log_in.jpg)
 
 ### Reset Password Page
 
-![Reset Password Page](images/Reset_pw.jpg)
+![Reset Password Page](Reset_pw.jpg)
 
 ## Technologies Used
 
